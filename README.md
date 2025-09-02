@@ -43,3 +43,4 @@ Data was split into 80% training and 20% testing sets.
 ## 6. Final Decision
 
 - Install 55 charging stations to meet both normal and peak demand efficiently.
+Find attached the file [`Machine Learning Script`](Bike_Demand_prediction.ipynb)
